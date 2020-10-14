@@ -1,5 +1,5 @@
 # linkedin-feed-page
-written in HTML and CSS.
+Written in HTML and CSS.
 
 ## Screen short
 
